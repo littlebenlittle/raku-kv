@@ -1,0 +1,20 @@
+{
+  "meta-version": "0",
+  "name": "KV",
+  "version": "0.0.0",
+  "auth": "github:littlebenlittle",
+  "description": "grammar and parser for key-value strings",
+  "source-url": "git://github.com/littlebenlittle/raku-kv",
+  "perl": "6.d",
+  "author": "Ben Little <ben.little@fruition.net>",
+  "tags": [
+    "kv",
+    "key-value",
+    "grammar",
+    "parser"
+  ],
+  "license": "Artistic-2.0",
+  "provides": {
+    "KV": "lib/KV.rakumod"
+  }
+}
